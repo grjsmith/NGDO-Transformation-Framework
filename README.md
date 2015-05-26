@@ -5,19 +5,39 @@ What is it?
 -----------
 
 The Next Gen DevOps Transformation Framework is an attempt to
-provide organisations with a structured approach to performing
-a DevOps transformation. The intention is to provide some basic
-parameters that define 
+provide organisations with a structured approach to transitioning
+to DevOps working practices. The intention is to provide a 
+structured approach that allows organisations to choose which
+challenge to tackle first and provides clear benefits at every
+stage.
 
 The Latest Version
 ------------------
 
+This readme is the only publically accessible artefact of the Next
+Gen DevOps Transformation Framework available at this time.
+
 Documentation
 -------------
+
+https://github.com/grjsmith/NGDO-Transformation-Framework/wiki
+
 
 How to use the framework
 ------------------------
 
+The Next Gen DevOps Transformation Framework has been designed 
+with two main goals in mind:
+
+1. To allow organisations to assess their DevOps capability and 
+to help prioritise projects to deliver improvements to existing
+capabilities or to deliver new capabilities.
+
+2. To articulate a series of projects that when completed 
+individually progress an organisations capability and deliver
+real-world value. When each additional project is completed 
+together they provide additional capabilities for little 
+additional work.
 
 Licensing
 ---------
