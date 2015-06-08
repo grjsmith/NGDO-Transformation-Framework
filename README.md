@@ -5,11 +5,12 @@ What is it?
 -----------
 
 The Next Gen DevOps Transformation Framework is an attempt to
-provide organisations with a structured approach to transitioning
-to DevOps working practices. The intention is to provide a 
-structured approach that allows organisations to choose which
-challenge to tackle first and provides clear benefits at every
-stage.
+provide organisations with a structured approach to a DevOps
+transition. The framework should be simply presented so that
+anyone reading it can understand the nature, complexity of a 
+transition to DevOps. Additonally the framework should allow
+organisations to choose which challenge to tackle first and 
+provide clear benefits at every stage of the transformation.
 
 The Latest Version
 ------------------
@@ -31,13 +32,14 @@ with two main goals in mind:
 
 1. To allow organisations to assess their DevOps capability and 
 to help prioritise projects to deliver improvements to existing
-capabilities or to deliver new capabilities.
+DevOps capabilities or to deliver new capabilities.
 
 2. To articulate a series of projects that when completed 
 individually progress an organisations capability and deliver
-real-world value. When each additional project is completed 
-together they provide additional capabilities for little 
-additional work.
+real-world value. The projects have been designed so that when 
+each is completed the capabilities they delivery can be used 
+together to deliver additional capabilities with very little 
+additonal work
 
 Licensing
 ---------
