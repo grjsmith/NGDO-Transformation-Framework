@@ -29,7 +29,7 @@ The latest version of the Next Gen DevOps Transformation Framework is comprised 
 
 **capability_web.png** is an optimised Portable Network Graphics image that attempts to display the network of capabilities at all stages of maturity that make up the Next Gen DevOps Framework.
 
-**capability_web_with_benefits.png&** is an optimised Portable Network Graphics image that attempts to display the network of capabilities at all stages of maturity that make up the Next Gen DevOps Framework. This version of the diagram suggests some of the additional benefits that can be made available once multiple projects have been completed. The list is not intended to be exhaustive merely indicative and none of them are *those* sort of benefits.
+**capability_web_with_benefits.png** is an optimised Portable Network Graphics image that attempts to display the network of capabilities at all stages of maturity that make up the Next Gen DevOps Framework. This version of the diagram suggests some of the additional benefits that can be made available once multiple projects have been completed. The list is not intended to be exhaustive merely indicative and none of them are *those* sort of benefits.
 
 **change_management.md** is a markdown document that describes a series of increasingly capable approaches to managing how evolving online services change over time. The projects specified within are designed to mature an organisation's approach to changing online services while supporting an ITIL approach to change management.
 
