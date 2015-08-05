@@ -39,7 +39,7 @@ The latest version of the Next Gen DevOps Transformation Framework is comprised 
 
 **project_management.md** is a markdown document that describes a series of increasingly capable approaches to managing all of the projects necessary to build, launch and manage evolving online services.
 
-**software_engineering.md** is a markdown document that describes a series of increasingly capable approaches to using the skills and experience of specialist software engineers to improve how an organisation's online services are built and managed.
+**service_engineering.md** is a markdown document that describes a series of increasingly capable approaches to using the skills and experience of specialist software engineers to improve how an organisation's ability to engineer online services.
 
 **test_engineering.md** is a markdown document that descibes a series of increasingly capable approaches an organisation can take that improves the quality and performance of the online services they build and manage.
 
