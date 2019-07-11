@@ -3,7 +3,7 @@ Next Gen DevOps Transformation Framework
 
 ##What is it?
 
-The Next Gen DevOps Transformation Framework is an attempt to provide organisations with a structured approach to a DevOps transition.
+The Next Gen DevOps Transformation Framework provides organisations with a structured approach to a DevOps or SRE transition.
 
 The framework is presented so that anyone reading it can understand the nature and complexity of a transition to DevOps. It also allows organisations to choose which challenge to tackle first. Each project has been structured to provide clear benefits. In addition to this the framework presents further capabilities that can be made available to an organisation with a little extra work by combining the capabilities delivered by multiple projects.
 
