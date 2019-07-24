@@ -59,19 +59,14 @@ However should additional documentation be required that doesn't sit well within
 
 ##Licensing
 
-The Next Gen DevOps Transformation Framework is licensed under the 
-Creative Commons CC0 1.0 Universal (CC0 1.0) licence. See 
-https://creativecommons.org/publicdomain/zero/1.0/ for more details.
+The Next Gen DevOps Transformation Framework is licensed under the Creative Commons CC0 1.0 Universal (CC0 1.0) licence. See https://creativecommons.org/publicdomain/zero/1.0/ for more details.
 
 ##Contacts
 
-If you want to be informed about new releases, fixes, general news 
-and information about the Next Gen DevOps Transformation Framework
-subscribe to the Next Gen DevOps mailing list as described here:
+If you want to be informed about new releases, fixes, general news and information about the Next Gen DevOps Transformation Framework subscribe to the Next Gen DevOps mailing list as described here:
 [https://groups.google.com/forum/#!forum/ngdotf](https://groups.google.com/forum/#!forum/ngdotf)
 
 ##Bug reporting and contributing
 If you have a bug report for please use Github's issues feature.
 
-If you want to participate in actively developing the Next Gen DevOps
-Transformation Framework please send a pull request. All submissions will be reviewed in line with the framework's **What is it?** section above.
+If you want to participate in actively developing the Next Gen DevOps Transformation Framework please send a pull request. All submissions will be reviewed in line with the framework's **What is it?** section above.
