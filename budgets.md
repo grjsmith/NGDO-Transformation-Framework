@@ -1,4 +1,4 @@
-#Budgets#
+#Budgets
 
 | Capability Level | Capability Name | Description | Observed Behaviour | Project Scope |
 |--------|--------|--------|--------|--------|
