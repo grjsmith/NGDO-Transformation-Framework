@@ -1,4 +1,5 @@
 #3rd Party Component Management
+
 | Capability Level | Capability Name | Description | Observed Behaviour | Project Scope |
 |--------|--------|--------|--------|--------|
 |0|3rd Party Components: Unmanaged|An unknown number of 3rd party components, services and tools are in use.|No clear ownership, budget or roadmap for each service, product or tool.<br>**Notification of impacts are makeshift and motley causing regular interruptions and impacts to productivity.**|Create a list of all 3rd party components in  use. Include software components, alongside open source and commercial, off-the-shelf (COTS) tools, services and hardware. Include details of Contract terms, SLA’s, expiry, support details and account contacts.<br>**Assign owners for each 3rd party component function, define the role of the owner as being responsible for the quality of service.**|
