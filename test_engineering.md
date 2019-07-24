@@ -1,4 +1,5 @@
 #Test Engineering
+
 | Capability Level | Capability Name | Description | Observed Behaviour | Project Scope |
 |--------|--------|--------|--------|--------|
 |0|Test Engineering: Manual Testing|All tests are manual except for unit tests.|Testers follow checklists but only test revenue generating services on environments whose configuration they don’t understand.<br>**Release cycles get longer as new features require more testing.**<br>Regression bugs are common.|Formalise and publish a coherent test approach to be reviewed by all engineers.<br>**Choose an automated test mechanism and framework that supports a human readable domain specific language (DSL).**<br>Code the steps necessary to allow simple user interaction functionality (such as form submission and check status type actions) to be tested at build time.<br>**Provide training to testers enabling them to write automated using the DSL.**|

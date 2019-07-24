@@ -1,4 +1,5 @@
 #Feedback Loops
+
 | Capability Level | Capability Name | Description | Observed Behaviour | Project Scope |
 |--------|--------|--------|--------|--------|
 |0|Feedback Loops: System Metrics|Service function and performance is inferred from measurement of system metrics|Services are monitored at the system and container level not from within the service itself.<br>**Services log errors to files which are at best partially parsed checking only for known errors.**<br>Service failures are commonly reported by users before they are captured by the monitoring system.|Create custom metrics that describe service health by combining available business and technical metrics.<br>**Analyse all available data from logs, database entries and system events looking for correlations that confirm actual behaviour of the service and it’s users. Monitor this data and iterate alerting thresholds, include interactive and system login data.**<br>Ship all system logs and metrics to more secure data structures.|
